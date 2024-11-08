@@ -13,3 +13,9 @@ My name is OmenHarvest, my real name is Dmitry. I am a student from St. Petersbu
 
 * spring framework [10%]
 * based flutter [3%]
+
+### intermediate level
+
+* aiogram
+* spigot/paper
+* pyqt
