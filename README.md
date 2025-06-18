@@ -19,3 +19,5 @@ My name is OmenHarvest, my real name is Dmitry. I am a student from St. Petersbu
 * aiogram
 * spigot/paper
 * pyqt
+
+[ʀᴜ] [telegram](https://t.me/harvesf)
