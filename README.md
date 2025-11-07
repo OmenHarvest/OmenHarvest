@@ -11,7 +11,7 @@ My name is OmenHarvest, my real name is Dmitry. I am a student from St. Petersbu
 ----
 # 🌍 sᴋɪʟʟs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omenharvest&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omenharvest&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - Java
 - Python
