@@ -8,7 +8,7 @@ My name is OmenHarvest, my real name is Dmitry. I am a student from St. Petersbu
 
 ----
 # 🌍 sᴋɪʟʟ ᴘʀᴏɢʀᴇssɪᴏɴ
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=OmenHarvest)](https://git.io/streak-stats)
 ### in the learning process/targets
 
 * spring framework [57%]
