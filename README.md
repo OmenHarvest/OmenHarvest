@@ -5,6 +5,7 @@ My name is OmenHarvest, my real name is Dmitry. I am a student from St. Petersbu
 
 ʀᴜ
 Меня зовут OmenHarvest, настоящее имя - Дмитрий. Я студент из Санкт-Петербурга, который изучает программирование на Java и Python.
+
 ----
 # 🌍 sᴋɪʟʟs
 - Java
