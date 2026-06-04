@@ -43,3 +43,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/25960339-127f-4673-a8f4-ca8b5b6b190b" />
+
